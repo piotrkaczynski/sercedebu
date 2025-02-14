@@ -1,0 +1,23 @@
+{
+  "id": "serce-debu",
+  "title": "Serce Dębu",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "serce-debu",
+      "label": "Serce Dębu",
+      "path": "packs/serce-debu",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
