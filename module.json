@@ -1,23 +1,29 @@
 {
-  "id": "serce-debu",
+  "id": "sercedebu",
   "title": "Serce Dębu",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
+  "url": "https://github.com/piotrkaczynski/sercedebu",
+  "authors": [
+    {
+      "name": "Piotr Kaczyński",
+      "flags": {}
+    }
+  ],
   "packs": [
     {
-      "name": "serce-debu",
+      "name": "sercedebu",
       "label": "Serce Dębu",
-      "path": "packs/serce-debu",
+      "path": "packs/sercedebu",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "pf2e",
-      "flags": {}
+      "system": "pf2e"
     }
   ]
 }
